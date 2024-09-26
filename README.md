@@ -1,3 +1,7 @@
+<div>
+<img src="img/IRIS-HEP%20logo.png" width="200" align="right"/>
+</div>
+
 # JuliaHEP 2024: Power of Python and Julia for Advanced Data Analysis
 
 Python and Julia are two powerful languages that are transforming data analysis in high-energy physics (HEP).
@@ -11,3 +15,21 @@ Through hands-on examples, I’ll demonstrate real-world applications where comb
 We’ll also discuss the challenges you might face, like dependency management and ensuring compatibility between the two languages. I’ll share strategies to overcome these hurdles and keep your projects running smoothly.
 
 Looking ahead, we’ll consider the exciting future possibilities of deeper Python-Julia integration and the role of the developer community in driving innovation. I hope to encourage you to experiment with this approach and contribute to the evolving ecosystem.
+
+## Authors
+<div>
+<img src="img/Princeton%20logo.png" width="150" align="right"/>
+</div>
+
+- Ianna Osborne, Princeton University
+- Jim Pivarski, Princeton University
+- Jerry 🦑 Ling, Harvard University
+
+
+## Acknowledgements
+<div>
+<img src="img/NSF%20logo.png" width="60" align="left"/>
+</div>
+
+Support for this work was provided by NSF cooperative agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) (IRIS-HEP)
+
